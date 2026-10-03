@@ -1,0 +1,8 @@
+{
+  "name": "LocalPulse: Real-Time Community & Emergency Radar",
+  "description": "Hyper-local crowdsourced radar for emergency alerts, daily community updates, special events, and location-based push notifications with Maps Grounding.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
